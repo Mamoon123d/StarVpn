@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.numberprogressbar:library:1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/0804124962d9ed421a99416cb6fc011c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/0804124962d9ed421a99416cb6fc011c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/3a8c4530cac49ae63fb9da9d7465d94b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/3a8c4530cac49ae63fb9da9d7465d94b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/3a8c4530cac49ae63fb9da9d7465d94b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.numberprogressbar/library/1.2/46ef00f3b8cf7914e1420df14fe31661cbf74527/library-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.numberprogressbar/library/1.2/4ed4d82dacac7a8a326ecb9ae2f6863becb88c55/library-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

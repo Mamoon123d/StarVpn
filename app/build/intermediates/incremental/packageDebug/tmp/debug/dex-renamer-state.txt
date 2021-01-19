@@ -1,0 +1,4 @@
+#Tue Jan 19 17:42:53 IST 2021
+base.0=C\:\\Users\\M.Mamoon\\Desktop\\mydoc\\StarVpn\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

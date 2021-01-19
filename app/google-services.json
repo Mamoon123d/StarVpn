@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "899250909370",
+    "project_id": "vpnstar-b79e9",
+    "storage_bucket": "vpnstar-b79e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899250909370:android:23b2e17928b352af5b1283",
+        "android_client_info": {
+          "package_name": "com.starvpn.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899250909370-ujcvd95svpnubmbre0r2fiq66576nuaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiU0YS3LVhFRQyxWX7Mj6nCn6wKwKiS3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899250909370-ujcvd95svpnubmbre0r2fiq66576nuaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899250909370:android:d5e6024a687387d65b1283",
+        "android_client_info": {
+          "package_name": "com.vpnstar.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899250909370-ujcvd95svpnubmbre0r2fiq66576nuaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiU0YS3LVhFRQyxWX7Mj6nCn6wKwKiS3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899250909370-ujcvd95svpnubmbre0r2fiq66576nuaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
